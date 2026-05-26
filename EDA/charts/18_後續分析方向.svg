@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="330" viewBox="0 0 1100 330">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>
+text { font-family: -apple-system, BlinkMacSystemFont, "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #243044; }
+.title { font-size: 24px; font-weight: 700; }
+.label { font-size: 15px; }
+.small { font-size: 13px; fill: #5d6b82; }
+.value { font-size: 15px; font-weight: 700; }
+</style>
+<text x="32" y="42" class="title">後續分析方向</text>
+<rect x="34.0" y="82.0" width="329.3" height="88" rx="10" fill="#f4f7fb" stroke="#d9e1ef"/>
+<text x="52.0" y="114.0" class="small">回購行為</text>
+<text x="52.0" y="148.0" style="font-size:24px;font-weight:750;fill:#1f2a3d;">以購買次數、回購間隔、活躍期間區分高頻/低頻/快速回購客</text>
+<rect x="385.3" y="82.0" width="329.3" height="88" rx="10" fill="#f4f7fb" stroke="#d9e1ef"/>
+<text x="403.3" y="114.0" class="small">旅遊型態</text>
+<text x="403.3" y="148.0" style="font-size:24px;font-weight:750;fill:#1f2a3d;">以國內海外、目的地數、熱門目的地區分旅遊情境</text>
+<rect x="736.7" y="82.0" width="329.3" height="88" rx="10" fill="#f4f7fb" stroke="#d9e1ef"/>
+<text x="754.7" y="114.0" class="small">保費價值</text>
+<text x="754.7" y="148.0" style="font-size:24px;font-weight:750;fill:#1f2a3d;">以累積保費、平均保費、每旅遊日保費區分高價值與輕量客</text>
+<rect x="34.0" y="192.0" width="329.3" height="88" rx="10" fill="#f4f7fb" stroke="#d9e1ef"/>
+<text x="52.0" y="224.0" class="small">購買習慣</text>
+<text x="52.0" y="258.0" style="font-size:24px;font-weight:750;fill:#1f2a3d;">以提前投保天數、投保月份、付款代碼作為提醒與渠道輔助</text>
+<rect x="385.3" y="192.0" width="329.3" height="88" rx="10" fill="#f4f7fb" stroke="#d9e1ef"/>
+<text x="403.3" y="224.0" class="small">行銷策略</text>
+<text x="403.3" y="258.0" style="font-size:24px;font-weight:750;fill:#1f2a3d;">先依客群設計提醒時機，再依目的地與保費價值調整文案</text>
+</svg>

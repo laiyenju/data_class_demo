@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="520" viewBox="0 0 1100 520">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>
+text { font-family: -apple-system, BlinkMacSystemFont, "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #243044; }
+.title { font-size: 24px; font-weight: 700; }
+.label { font-size: 15px; }
+.small { font-size: 13px; fill: #5d6b82; }
+.value { font-size: 15px; font-weight: 700; }
+</style>
+<text x="32" y="42" class="title">月度投保筆數</text>
+<line x1="70" y1="420" x2="1060" y2="420" stroke="#c8d2e3"/>
+<line x1="70" y1="80" x2="70" y2="420" stroke="#c8d2e3"/>
+<polyline points="70.0,389.8 98.3,420.0 126.6,352.3 154.9,322.3 183.1,331.2 211.4,211.2 239.7,361.4 268.0,322.0 296.3,270.9 324.6,221.0 352.9,258.2 381.1,257.8 409.4,260.8 437.7,251.2 466.0,209.9 494.3,179.5 522.6,188.1 550.9,155.9 579.1,266.5 607.4,248.4 635.7,233.1 664.0,222.0 692.3,272.8 720.6,228.1 748.9,220.6 777.1,262.5 805.4,212.5 833.7,193.6 862.0,153.5 890.3,136.6 918.6,206.6 946.9,150.8 975.1,158.4 1003.4,80.0 1031.7,179.3 1060.0,182.6" fill="none" stroke="#7b61ff" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="70.0" cy="389.8" r="4.5" fill="#7b61ff"/>
+<circle cx="98.3" cy="420.0" r="4.5" fill="#7b61ff"/>
+<circle cx="126.6" cy="352.3" r="4.5" fill="#7b61ff"/>
+<circle cx="154.9" cy="322.3" r="4.5" fill="#7b61ff"/>
+<circle cx="183.1" cy="331.2" r="4.5" fill="#7b61ff"/>
+<circle cx="211.4" cy="211.2" r="4.5" fill="#7b61ff"/>
+<circle cx="239.7" cy="361.4" r="4.5" fill="#7b61ff"/>
+<circle cx="268.0" cy="322.0" r="4.5" fill="#7b61ff"/>
+<circle cx="296.3" cy="270.9" r="4.5" fill="#7b61ff"/>
+<circle cx="324.6" cy="221.0" r="4.5" fill="#7b61ff"/>
+<circle cx="352.9" cy="258.2" r="4.5" fill="#7b61ff"/>
+<circle cx="381.1" cy="257.8" r="4.5" fill="#7b61ff"/>
+<circle cx="409.4" cy="260.8" r="4.5" fill="#7b61ff"/>
+<circle cx="437.7" cy="251.2" r="4.5" fill="#7b61ff"/>
+<circle cx="466.0" cy="209.9" r="4.5" fill="#7b61ff"/>
+<circle cx="494.3" cy="179.5" r="4.5" fill="#7b61ff"/>
+<circle cx="522.6" cy="188.1" r="4.5" fill="#7b61ff"/>
+<circle cx="550.9" cy="155.9" r="4.5" fill="#7b61ff"/>
+<circle cx="579.1" cy="266.5" r="4.5" fill="#7b61ff"/>
+<circle cx="607.4" cy="248.4" r="4.5" fill="#7b61ff"/>
+<circle cx="635.7" cy="233.1" r="4.5" fill="#7b61ff"/>
+<circle cx="664.0" cy="222.0" r="4.5" fill="#7b61ff"/>
+<circle cx="692.3" cy="272.8" r="4.5" fill="#7b61ff"/>
+<circle cx="720.6" cy="228.1" r="4.5" fill="#7b61ff"/>
+<circle cx="748.9" cy="220.6" r="4.5" fill="#7b61ff"/>
+<circle cx="777.1" cy="262.5" r="4.5" fill="#7b61ff"/>
+<circle cx="805.4" cy="212.5" r="4.5" fill="#7b61ff"/>
+<circle cx="833.7" cy="193.6" r="4.5" fill="#7b61ff"/>
+<circle cx="862.0" cy="153.5" r="4.5" fill="#7b61ff"/>
+<circle cx="890.3" cy="136.6" r="4.5" fill="#7b61ff"/>
+<circle cx="918.6" cy="206.6" r="4.5" fill="#7b61ff"/>
+<circle cx="946.9" cy="150.8" r="4.5" fill="#7b61ff"/>
+<circle cx="975.1" cy="158.4" r="4.5" fill="#7b61ff"/>
+<circle cx="1003.4" cy="80.0" r="4.5" fill="#7b61ff"/>
+<circle cx="1031.7" cy="179.3" r="4.5" fill="#7b61ff"/>
+<circle cx="1060.0" cy="182.6" r="4.5" fill="#7b61ff"/>
+<text x="70.0" y="465" text-anchor="middle" class="small" transform="rotate(-35 70.0,465)">2023-01</text>
+<text x="211.4" y="465" text-anchor="middle" class="small" transform="rotate(-35 211.4,465)">2023-06</text>
+<text x="352.9" y="465" text-anchor="middle" class="small" transform="rotate(-35 352.9,465)">2023-11</text>
+<text x="494.3" y="465" text-anchor="middle" class="small" transform="rotate(-35 494.3,465)">2024-04</text>
+<text x="635.7" y="465" text-anchor="middle" class="small" transform="rotate(-35 635.7,465)">2024-09</text>
+<text x="777.1" y="465" text-anchor="middle" class="small" transform="rotate(-35 777.1,465)">2025-02</text>
+<text x="918.6" y="465" text-anchor="middle" class="small" transform="rotate(-35 918.6,465)">2025-07</text>
+<text x="1060.0" y="465" text-anchor="middle" class="small" transform="rotate(-35 1060.0,465)">2025-12</text>
+<text x="70" y="64" class="small">最高 14,617</text>
+<text x="70" y="448" class="small">最低 5,838</text>
+</svg>

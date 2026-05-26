@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="420" viewBox="0 0 1100 420">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>
+text { font-family: -apple-system, BlinkMacSystemFont, "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #243044; }
+.title { font-size: 24px; font-weight: 700; }
+.label { font-size: 15px; }
+.small { font-size: 13px; fill: #5d6b82; }
+.value { font-size: 15px; font-weight: 700; }
+</style>
+<text x="32" y="42" class="title">客戶層級總覽</text>
+<rect x="34.0" y="82.0" width="329.3" height="88" rx="10" fill="#f4f7fb" stroke="#d9e1ef"/>
+<text x="52.0" y="114.0" class="small">客戶數</text>
+<text x="52.0" y="148.0" style="font-size:24px;font-weight:750;fill:#1f2a3d;">258,979</text>
+<rect x="385.3" y="82.0" width="329.3" height="88" rx="10" fill="#f4f7fb" stroke="#d9e1ef"/>
+<text x="403.3" y="114.0" class="small">一次購買客戶</text>
+<text x="403.3" y="148.0" style="font-size:24px;font-weight:750;fill:#1f2a3d;">198,301</text>
+<rect x="736.7" y="82.0" width="329.3" height="88" rx="10" fill="#f4f7fb" stroke="#d9e1ef"/>
+<text x="754.7" y="114.0" class="small">回購客戶（2次以上）</text>
+<text x="754.7" y="148.0" style="font-size:24px;font-weight:750;fill:#1f2a3d;">60,678</text>
+<rect x="34.0" y="192.0" width="329.3" height="88" rx="10" fill="#f4f7fb" stroke="#d9e1ef"/>
+<text x="52.0" y="224.0" class="small">回購客戶占比</text>
+<text x="52.0" y="258.0" style="font-size:24px;font-weight:750;fill:#1f2a3d;">23.4%</text>
+<rect x="385.3" y="192.0" width="329.3" height="88" rx="10" fill="#f4f7fb" stroke="#d9e1ef"/>
+<text x="403.3" y="224.0" class="small">每人平均購買次數</text>
+<text x="403.3" y="258.0" style="font-size:24px;font-weight:750;fill:#1f2a3d;">1.46</text>
+<rect x="736.7" y="192.0" width="329.3" height="88" rx="10" fill="#f4f7fb" stroke="#d9e1ef"/>
+<text x="754.7" y="224.0" class="small">每人購買次數中位數</text>
+<text x="754.7" y="258.0" style="font-size:24px;font-weight:750;fill:#1f2a3d;">1</text>
+<rect x="34.0" y="302.0" width="329.3" height="88" rx="10" fill="#f4f7fb" stroke="#d9e1ef"/>
+<text x="52.0" y="334.0" class="small">每人累積保費中位數</text>
+<text x="52.0" y="368.0" style="font-size:24px;font-weight:750;fill:#1f2a3d;">NT$854</text>
+<rect x="385.3" y="302.0" width="329.3" height="88" rx="10" fill="#f4f7fb" stroke="#d9e1ef"/>
+<text x="403.3" y="334.0" class="small">每人累積保費 P95</text>
+<text x="403.3" y="368.0" style="font-size:24px;font-weight:750;fill:#1f2a3d;">NT$3,309</text>
+</svg>

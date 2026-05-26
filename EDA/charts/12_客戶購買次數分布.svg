@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>
+text { font-family: -apple-system, BlinkMacSystemFont, "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #243044; }
+.title { font-size: 24px; font-weight: 700; }
+.label { font-size: 15px; }
+.small { font-size: 13px; fill: #5d6b82; }
+.value { font-size: 15px; font-weight: 700; }
+</style>
+<text x="32" y="42" class="title">客戶購買次數分布</text>
+<text x="176" y="105.3" text-anchor="end" class="label">1</text>
+<rect x="190" y="89.1" width="665.0" height="21.6" rx="5" fill="#e8eef8"/>
+<rect x="190" y="89.1" width="509.2" height="21.6" rx="5" fill="#d95f02"/>
+<text x="865.0" y="105.3" class="value">76.6%</text>
+<text x="176" y="146.8" text-anchor="end" class="label">2</text>
+<rect x="190" y="130.6" width="665.0" height="21.6" rx="5" fill="#e8eef8"/>
+<rect x="190" y="130.6" width="93.6" height="21.6" rx="5" fill="#d95f02"/>
+<text x="865.0" y="146.8" class="value">14.1%</text>
+<text x="176" y="188.3" text-anchor="end" class="label">3</text>
+<rect x="190" y="172.1" width="665.0" height="21.6" rx="5" fill="#e8eef8"/>
+<rect x="190" y="172.1" width="31.2" height="21.6" rx="5" fill="#d95f02"/>
+<text x="865.0" y="188.3" class="value">4.7%</text>
+<text x="176" y="229.8" text-anchor="end" class="label">4</text>
+<rect x="190" y="213.6" width="665.0" height="21.6" rx="5" fill="#e8eef8"/>
+<rect x="190" y="213.6" width="13.3" height="21.6" rx="5" fill="#d95f02"/>
+<text x="865.0" y="229.8" class="value">2.0%</text>
+<text x="176" y="271.3" text-anchor="end" class="label">5</text>
+<rect x="190" y="255.1" width="665.0" height="21.6" rx="5" fill="#e8eef8"/>
+<rect x="190" y="255.1" width="6.5" height="21.6" rx="5" fill="#d95f02"/>
+<text x="865.0" y="271.3" class="value">1.0%</text>
+<text x="176" y="312.8" text-anchor="end" class="label">6</text>
+<rect x="190" y="296.6" width="665.0" height="21.6" rx="5" fill="#e8eef8"/>
+<rect x="190" y="296.6" width="3.8" height="21.6" rx="5" fill="#d95f02"/>
+<text x="865.0" y="312.8" class="value">0.6%</text>
+<text x="176" y="354.3" text-anchor="end" class="label">7</text>
+<rect x="190" y="338.1" width="665.0" height="21.6" rx="5" fill="#e8eef8"/>
+<rect x="190" y="338.1" width="2.2" height="21.6" rx="5" fill="#d95f02"/>
+<text x="865.0" y="354.3" class="value">0.3%</text>
+<text x="176" y="395.8" text-anchor="end" class="label">8</text>
+<rect x="190" y="379.6" width="665.0" height="21.6" rx="5" fill="#e8eef8"/>
+<rect x="190" y="379.6" width="1.4" height="21.6" rx="5" fill="#d95f02"/>
+<text x="865.0" y="395.8" class="value">0.2%</text>
+<text x="176" y="437.3" text-anchor="end" class="label">9</text>
+<rect x="190" y="421.1" width="665.0" height="21.6" rx="5" fill="#e8eef8"/>
+<rect x="190" y="421.1" width="1.0" height="21.6" rx="5" fill="#d95f02"/>
+<text x="865.0" y="437.3" class="value">0.1%</text>
+<text x="176" y="478.8" text-anchor="end" class="label">10次以上</text>
+<rect x="190" y="462.6" width="665.0" height="21.6" rx="5" fill="#e8eef8"/>
+<rect x="190" y="462.6" width="2.8" height="21.6" rx="5" fill="#d95f02"/>
+<text x="865.0" y="478.8" class="value">0.4%</text>
+</svg>

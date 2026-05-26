@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>
+text { font-family: -apple-system, BlinkMacSystemFont, "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #243044; }
+.title { font-size: 24px; font-weight: 700; }
+.label { font-size: 15px; }
+.small { font-size: 13px; fill: #5d6b82; }
+.value { font-size: 15px; font-weight: 700; }
+</style>
+<text x="32" y="42" class="title">付款代碼 Top 10 占比</text>
+<text x="176" y="105.3" text-anchor="end" class="label">999999</text>
+<rect x="190" y="89.1" width="665.0" height="21.6" rx="5" fill="#e8eef8"/>
+<rect x="190" y="89.1" width="77.6" height="21.6" rx="5" fill="#7b61ff"/>
+<text x="865.0" y="105.3" class="value">11.7%</text>
+<text x="176" y="146.8" text-anchor="end" class="label">356969</text>
+<rect x="190" y="130.6" width="665.0" height="21.6" rx="5" fill="#e8eef8"/>
+<rect x="190" y="130.6" width="48.3" height="21.6" rx="5" fill="#7b61ff"/>
+<text x="865.0" y="146.8" class="value">7.3%</text>
+<text x="176" y="188.3" text-anchor="end" class="label">524108</text>
+<rect x="190" y="172.1" width="665.0" height="21.6" rx="5" fill="#e8eef8"/>
+<rect x="190" y="172.1" width="38.3" height="21.6" rx="5" fill="#7b61ff"/>
+<text x="865.0" y="188.3" class="value">5.8%</text>
+<text x="176" y="229.8" text-anchor="end" class="label">414763</text>
+<rect x="190" y="213.6" width="665.0" height="21.6" rx="5" fill="#e8eef8"/>
+<rect x="190" y="213.6" width="30.3" height="21.6" rx="5" fill="#7b61ff"/>
+<text x="865.0" y="229.8" class="value">4.6%</text>
+<text x="176" y="271.3" text-anchor="end" class="label">428430</text>
+<rect x="190" y="255.1" width="665.0" height="21.6" rx="5" fill="#e8eef8"/>
+<rect x="190" y="255.1" width="25.0" height="21.6" rx="5" fill="#7b61ff"/>
+<text x="865.0" y="271.3" class="value">3.8%</text>
+<text x="176" y="312.8" text-anchor="end" class="label">447757</text>
+<rect x="190" y="296.6" width="665.0" height="21.6" rx="5" fill="#e8eef8"/>
+<rect x="190" y="296.6" width="22.7" height="21.6" rx="5" fill="#7b61ff"/>
+<text x="865.0" y="312.8" class="value">3.4%</text>
+<text x="176" y="354.3" text-anchor="end" class="label">418230</text>
+<rect x="190" y="338.1" width="665.0" height="21.6" rx="5" fill="#e8eef8"/>
+<rect x="190" y="338.1" width="22.5" height="21.6" rx="5" fill="#7b61ff"/>
+<text x="865.0" y="354.3" class="value">3.4%</text>
+<text x="176" y="395.8" text-anchor="end" class="label">540805</text>
+<rect x="190" y="379.6" width="665.0" height="21.6" rx="5" fill="#e8eef8"/>
+<rect x="190" y="379.6" width="16.0" height="21.6" rx="5" fill="#7b61ff"/>
+<text x="865.0" y="395.8" class="value">2.4%</text>
+<text x="176" y="437.3" text-anchor="end" class="label">470538</text>
+<rect x="190" y="421.1" width="665.0" height="21.6" rx="5" fill="#e8eef8"/>
+<rect x="190" y="421.1" width="15.9" height="21.6" rx="5" fill="#7b61ff"/>
+<text x="865.0" y="437.3" class="value">2.4%</text>
+<text x="176" y="478.8" text-anchor="end" class="label">524255</text>
+<rect x="190" y="462.6" width="665.0" height="21.6" rx="5" fill="#e8eef8"/>
+<rect x="190" y="462.6" width="15.4" height="21.6" rx="5" fill="#7b61ff"/>
+<text x="865.0" y="478.8" class="value">2.3%</text>
+</svg>

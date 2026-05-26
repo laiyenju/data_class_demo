@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>
+text { font-family: -apple-system, BlinkMacSystemFont, "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #243044; }
+.title { font-size: 24px; font-weight: 700; }
+.label { font-size: 15px; }
+.small { font-size: 13px; fill: #5d6b82; }
+.value { font-size: 15px; font-weight: 700; }
+</style>
+<text x="32" y="42" class="title">單筆目的地數占比</text>
+<text x="176" y="123.8" text-anchor="end" class="label">0</text>
+<rect x="190" y="102.8" width="665.0" height="28.0" rx="5" fill="#e8eef8"/>
+<rect x="190" y="102.8" width="0.0" height="28.0" rx="5" fill="#596b82"/>
+<text x="865.0" y="123.8" class="value">0.0%</text>
+<text x="176" y="227.6" text-anchor="end" class="label">1</text>
+<rect x="190" y="206.6" width="665.0" height="28.0" rx="5" fill="#e8eef8"/>
+<rect x="190" y="206.6" width="631.4" height="28.0" rx="5" fill="#596b82"/>
+<text x="865.0" y="227.6" class="value">95.0%</text>
+<text x="176" y="331.3" text-anchor="end" class="label">2</text>
+<rect x="190" y="310.3" width="665.0" height="28.0" rx="5" fill="#e8eef8"/>
+<rect x="190" y="310.3" width="26.5" height="28.0" rx="5" fill="#596b82"/>
+<text x="865.0" y="331.3" class="value">4.0%</text>
+<text x="176" y="435.1" text-anchor="end" class="label">3</text>
+<rect x="190" y="414.1" width="665.0" height="28.0" rx="5" fill="#e8eef8"/>
+<rect x="190" y="414.1" width="7.0" height="28.0" rx="5" fill="#596b82"/>
+<text x="865.0" y="435.1" class="value">1.1%</text>
+</svg>
