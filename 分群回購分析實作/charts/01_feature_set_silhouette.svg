@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>
+text { font-family: -apple-system, BlinkMacSystemFont, "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #243044; }
+.title { font-size: 24px; font-weight: 700; }
+.label { font-size: 14px; }
+.small { font-size: 12px; fill: #5d6b82; }
+.value { font-size: 14px; font-weight: 700; }
+</style>
+<text x="30" y="42" class="title">特徵組合與 K 值：Silhouette Top 10</text>
+<text x="216" y="110.3" text-anchor="end" class="label">A_RFM_only / K=2</text>
+<rect x="230" y="89.7" width="650.0" height="27.6" rx="5" fill="#2f6fed"/>
+<text x="888.0" y="110.3" class="value">0.456</text>
+<text x="216" y="163.3" text-anchor="end" class="label">B_RFM_travel / K=3</text>
+<rect x="230" y="142.7" width="623.5" height="27.6" rx="5" fill="#2f6fed"/>
+<text x="861.5" y="163.3" class="value">0.438</text>
+<text x="216" y="216.3" text-anchor="end" class="label">B_RFM_travel / K=4</text>
+<rect x="230" y="195.7" width="599.7" height="27.6" rx="5" fill="#2f6fed"/>
+<text x="837.7" y="216.3" class="value">0.421</text>
+<text x="216" y="269.3" text-anchor="end" class="label">C_RFM_purchase / K=3</text>
+<rect x="230" y="248.7" width="598.3" height="27.6" rx="5" fill="#2f6fed"/>
+<text x="836.3" y="269.3" class="value">0.420</text>
+<text x="216" y="322.3" text-anchor="end" class="label">A_RFM_only / K=5</text>
+<rect x="230" y="301.7" width="575.1" height="27.6" rx="5" fill="#2f6fed"/>
+<text x="813.1" y="322.3" class="value">0.404</text>
+<text x="216" y="375.3" text-anchor="end" class="label">A_RFM_only / K=3</text>
+<rect x="230" y="354.7" width="560.2" height="27.6" rx="5" fill="#2f6fed"/>
+<text x="798.2" y="375.3" class="value">0.393</text>
+<text x="216" y="428.3" text-anchor="end" class="label">C_RFM_purchase / K=2</text>
+<rect x="230" y="407.7" width="554.0" height="27.6" rx="5" fill="#2f6fed"/>
+<text x="792.0" y="428.3" class="value">0.389</text>
+<text x="216" y="481.3" text-anchor="end" class="label">A_RFM_only / K=4</text>
+<rect x="230" y="460.7" width="550.7" height="27.6" rx="5" fill="#2f6fed"/>
+<text x="788.7" y="481.3" class="value">0.387</text>
+<text x="216" y="534.3" text-anchor="end" class="label">B_RFM_travel / K=5</text>
+<rect x="230" y="513.7" width="548.0" height="27.6" rx="5" fill="#2f6fed"/>
+<text x="786.0" y="534.3" class="value">0.385</text>
+<text x="216" y="587.3" text-anchor="end" class="label">B_RFM_travel / K=2</text>
+<rect x="230" y="566.7" width="546.8" height="27.6" rx="5" fill="#2f6fed"/>
+<text x="784.8" y="587.3" class="value">0.384</text>
+</svg>
