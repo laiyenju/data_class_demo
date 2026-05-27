@@ -18,20 +18,20 @@ text { font-family: -apple-system, BlinkMacSystemFont, "Noto Sans TC", "Microsof
 <rect x="230" y="195.7" width="599.7" height="27.6" rx="5" fill="#2f6fed"/>
 <text x="837.7" y="216.3" class="value">0.421</text>
 <text x="216" y="269.3" text-anchor="end" class="label">C_RFM_purchase / K=3</text>
-<rect x="230" y="248.7" width="598.3" height="27.6" rx="5" fill="#2f6fed"/>
-<text x="836.3" y="269.3" class="value">0.420</text>
+<rect x="230" y="248.7" width="598.1" height="27.6" rx="5" fill="#2f6fed"/>
+<text x="836.1" y="269.3" class="value">0.420</text>
 <text x="216" y="322.3" text-anchor="end" class="label">A_RFM_only / K=5</text>
-<rect x="230" y="301.7" width="575.1" height="27.6" rx="5" fill="#2f6fed"/>
-<text x="813.1" y="322.3" class="value">0.404</text>
+<rect x="230" y="301.7" width="574.6" height="27.6" rx="5" fill="#2f6fed"/>
+<text x="812.6" y="322.3" class="value">0.403</text>
 <text x="216" y="375.3" text-anchor="end" class="label">A_RFM_only / K=3</text>
-<rect x="230" y="354.7" width="560.2" height="27.6" rx="5" fill="#2f6fed"/>
-<text x="798.2" y="375.3" class="value">0.393</text>
+<rect x="230" y="354.7" width="560.5" height="27.6" rx="5" fill="#2f6fed"/>
+<text x="798.5" y="375.3" class="value">0.393</text>
 <text x="216" y="428.3" text-anchor="end" class="label">C_RFM_purchase / K=2</text>
 <rect x="230" y="407.7" width="554.0" height="27.6" rx="5" fill="#2f6fed"/>
 <text x="792.0" y="428.3" class="value">0.389</text>
 <text x="216" y="481.3" text-anchor="end" class="label">A_RFM_only / K=4</text>
-<rect x="230" y="460.7" width="550.7" height="27.6" rx="5" fill="#2f6fed"/>
-<text x="788.7" y="481.3" class="value">0.387</text>
+<rect x="230" y="460.7" width="550.5" height="27.6" rx="5" fill="#2f6fed"/>
+<text x="788.5" y="481.3" class="value">0.386</text>
 <text x="216" y="534.3" text-anchor="end" class="label">B_RFM_travel / K=5</text>
 <rect x="230" y="513.7" width="548.0" height="27.6" rx="5" fill="#2f6fed"/>
 <text x="786.0" y="534.3" class="value">0.385</text>
